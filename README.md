@@ -23,3 +23,7 @@ To run the scripts and reproduce the posterior distributions, you will need the 
 pip install numpy pandas scipy emcee corner matplotlib
 Link: [https://doi.org/10.5281/zenodo.22761303]
 Note: A random seed (np.random.seed(20152024)) has been set in the scripts to ensure full reproducibility of the MCMC posterior quantiles.
+📄 Citation
+If you find this code or theoretical framework useful in your research, please consider citing the associated preprint on Zenodo:
+
+Nguyen Huy Nhat. (2024). Constraining a Phenomenological Picard Horn Topology with Effective Geometric Cut-off: MCMC Joint Analysis of SNe Ia and Cosmic Chronometers. Zenodo. [Insert Your Zenodo DOI Link Here]
